@@ -5,7 +5,7 @@ description: >- # site description
 lang: pt-BR # default lang
 timezone: # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/8oito-bits/8oito-bits.github.io # site repo [optional]
 mode: light # default theme "dark" | "light"
 
 # Profile settings
