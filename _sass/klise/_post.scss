@@ -71,6 +71,14 @@
 .page-content {
   padding-top: 8px;
 
+  img.arabesco {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    max-width: 100%;
+    height: auto;
+  }
+
   iframe {
     text-align: center;
   }
