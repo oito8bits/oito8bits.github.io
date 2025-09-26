@@ -78,6 +78,12 @@
     max-width: 100%;
     height: auto;
   }
+  
+  @include media-query($on-mobile) {
+    img.arabesco {
+      width: 70%;
+    }
+  }
 
   iframe {
     text-align: center;
